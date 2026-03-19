@@ -5,7 +5,7 @@ It combines **Automatic Speech Recognition (ASR)** and **Text-to-Speech (TTS)** 
 
 The app works **online and offline**, supports **Kenyan English and Swahili**, and is designed for use **under teacher or guardian supervision**.
 
----
+
 
 ##  Features
 
